@@ -1,0 +1,32 @@
+.menu{
+	list-style-type: none;
+	font-family: 'HelveticaBold';	
+	padding-inline-start: 0px;
+}
+
+.menu a {
+	color: #4d5255;
+	font-family: ;
+	text-decoration: none;
+}
+
+.menu li{
+
+	display: inline;
+	font-size: 13px;
+}
+
+
+.menuli{
+font-size: 13px;
+margin-right: 48%;
+}
+
+.underline{
+	border-bottom: 3px solid;
+	color: #f26c4f;
+}
+
+.menu1{
+	margin: 0 10px;
+}

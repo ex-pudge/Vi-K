@@ -1,0 +1,394 @@
+#grid { 
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 0.1vw;
+  margin-left: ;
+  margin-right: ;
+  }
+
+#grid > div {
+	
+  font-size: 14px;
+  padding: 0.1em;
+  background: ;
+  text-align: left;
+  font-family: 'HelveticaBold';
+  color: #4d5255;
+}
+
+.gridy1{
+  margin-right: 8%;
+}
+
+.gridy2{
+  margin-left:4%; 
+  margin-right: 4%;
+}
+
+.gridy3{
+  margin-left:9%;
+}
+
+.gridy4{
+  margin-left: 70%;
+}
+
+#grid1 {
+	display: inline;
+  font-size: 10px;
+  background: ;
+  text-align: left;
+  font-family: 'HelveticaBold';
+  color: #4d5255;
+}
+
+
+#grid2 { 
+  font-family: 'HelveticaBold';
+  display: grid;
+  grid-template-rows: repeat(1, 1fr) ;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 0.1vw;
+  margin-left: ;
+  color: #4d5255;
+}
+ 
+#grid2 > div {
+  font-size: 12px;
+  padding: 1px;
+  background: ;
+  text-align: left;
+  color: #4d5255;
+}
+
+.gridy21{
+  margin-right: 9%; 
+  font-size: 12px;
+  line-height:1.5;
+}
+
+.gridy22{
+  margin-left: 5.6%;
+  margin-right: 5%; 
+  line-height:1.5;
+}
+
+.gridy23{
+  list-style-type: none; 
+}
+
+.gridy24{
+  text-decoration: none;
+  border-bottom: 1px dotted;
+  color: #4d5255; 
+  font-family: 'Georgia';
+  font-size: 13px;
+}
+
+.gridy25{
+  text-decoration: none; 
+  border-bottom: 1px dotted; 
+  color: #4d5255; 
+  font-family: 'Georgia';
+  font-size: 13px; 
+  margin-left: 39%;
+}
+
+.gridy26{
+  text-decoration: none; 
+  border-bottom: 1px dotted; 
+  color: #4d5255; 
+  font-family: 'Georgia';
+  font-size: 13px;
+
+}
+
+.gridy27{
+ text-decoration: none; 
+ border-bottom: 1px dotted; 
+ color: #4d5255; 
+ font-family: 'Georgia';
+ font-size: 13px; 
+ margin-left: 20%;
+}
+
+.gridy28{
+  text-decoration: none; 
+  border-bottom: 1px dotted; 
+  color: #4d5255; 
+  font-family: 'Georgia';
+  font-size: 13px;
+}
+
+.gridy29{
+  text-decoration: none;
+  border-bottom: 1px dotted; 
+  color: #4d5255;
+  font-family: 'Georgia';
+  font-size: 13px; 
+  margin-left: 37%;
+}
+
+.gridy210{
+  text-decoration: none; 
+  border-bottom: 1px dotted; 
+  color: #4d5255; 
+  font-family: 'Georgia';
+  font-size: 13px;"
+}
+
+.gridy211{
+  text-decoration: none; 
+  border-bottom: 1px dotted; 
+  color: #4d5255; 
+  font-family: 'Georgia';
+  font-size: 13px; 
+  margin-left: 25%;
+}
+
+.gridy212{
+  text-decoration: none; 
+  border-bottom: 1px dotted; 
+  color: #4d5255; 
+  font-family: 'Georgia';
+  font-size: 13px;
+}
+
+.gridy213{
+  text-decoration: none; 
+  border-bottom: 1px dotted; 
+  color: #4d5255; 
+  font-family: 'Georgia';
+  font-size: 13px; 
+  margin-left: 43%;
+}
+
+.gridy214{
+  text-decoration: none; 
+  border-bottom: 1px dotted; 
+  color: #4d5255; 
+  font-family: 'Georgia';
+  font-size: 13px;"
+}
+
+.gridy215{
+  text-decoration: none; 
+  border-bottom: 1px dotted; 
+  color: #4d5255; 
+  font-family: 'Georgia';
+  font-size: 13px; 
+  margin-left: 19%;
+}
+
+.gridy216{
+  text-decoration: none; 
+  border-bottom: 1px dotted; 
+  color: #4d5255; 
+  font-family: 'Georgia';
+  font-size: 13px;
+  
+}
+
+.gridy217{
+  text-decoration: none; 
+  border-bottom: 1px dotted; 
+  color: #4d5255; 
+  font-family: 'Georgia';
+  font-size: 13px; 
+  margin-left: 29%;
+}
+
+.gridy218{
+  text-decoration: none; 
+  border-bottom: 1px dotted;
+  color: #4d5255; 
+  font-family: 'Georgia';
+  font-size: 13px;"
+}
+
+.gridy219{
+  text-decoration: none;
+  border-bottom: 1px dotted;
+  color: #4d5255; 
+  font-family: 'Georgia';
+  font-size: 13px;
+}
+
+.gridy218{
+  text-decoration: none; 
+  border-bottom: 1px dotted;
+  color: #4d5255; 
+  font-family: 'Georgia';
+  font-size: 13px;"
+}
+
+.gridy218{
+  text-decoration: none; 
+  border-bottom: 1px dotted;
+  color: #4d5255; 
+  font-family: 'Georgia';
+  font-size: 13px;"
+}
+
+.gridy218{
+  text-decoration: none; 
+  border-bottom: 1px dotted;
+  color: #4d5255; 
+  font-family: 'Georgia';
+  font-size: 13px;"
+}
+
+.gridy218{
+  text-decoration: none; 
+  border-bottom: 1px dotted;
+  color: #4d5255; 
+  font-family: 'Georgia';
+  font-size: 13px;"
+}
+
+#grid3 { 
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr ;
+  grid-gap: 0.1vw;
+ 
+}
+
+#grid4 { 
+	 font-family: 'HelveticaBold';
+  display: grid;
+  grid-template-rows:1fr 1fr  ;
+  grid-template-columns:1fr 1fr 1fr;
+  grid-gap: 0.1vw;
+  margin-left: ;
+  margin-right: ;
+  color: #4d5255;
+    font-size: 16px; 
+}
+
+.gridy41{
+ margin-left: 5.5%;
+}
+
+.gridy42{
+  margin-left: 10.5%;
+}
+
+.gridy43{
+  font-family: 'HelveticaBold'; 
+  font-size: 12px; 
+  color: #4d5255; 
+  margin-right: 10%; 
+  font-weight:400; 
+}
+
+.gridy44{
+  font-family: 'HelveticaBold'; 
+  font-size: 12px; 
+  color: #4d5255; 
+  margin-left: 5% ; 
+  font-weight:400; 
+  margin-right: 5%; 
+}
+
+.gridy45{
+  font-family: 'HelveticaBold'; 
+  font-size: 12px; 
+  color: #4d5255; 
+  margin-left: 10%; 
+  font-weight:400;
+}
+
+
+#grid5 { 
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 0.1vw;
+ ;
+}
+
+.gridy51{
+  font-family: 'HelveticaBold';  
+  color:  #acacac; 
+  margin-left: 2%;
+}
+
+.gridy52{
+  font-family: 'HelveticaBold'; 
+  color:  #acacac; 
+  margin-left: 6%;
+}
+
+.gridy53{
+  font-family: 'HelveticaBold'; 
+  color:  #acacac;
+  margin-left: 11%;
+}
+
+#grid6 { 
+  padding-bottom: 70px;
+  display: grid;
+  grid-template-rows: 1fr ;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 0.1vw;
+  margin-left: ;
+}
+
+.gridy61{
+  font-weight:200; 
+  font-family: 'HelveticaBold'; 
+  font-size: 11px;
+}
+
+
+.gridy62{
+  color:  #acacac; 
+  margin-left: 1%;
+}
+
+.gridy63{
+  margin-left: 19%;
+}
+
+
+.gridy65{
+  color:  #acacac; 
+  margin-left: 6%
+}
+
+.gridy66{
+  color:  #acacac; 
+  margin-left: 10%
+}
+
+
+#grid7 {
+    margin:25px 0;
+  display: inline;
+  font-size: 10px;
+  background: ;
+  text-align: left;
+  font-family: 'HelveticaBold';
+  color: #4d5255;
+}
+
+#grid8 { 
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 0.1vw;
+  
+}
+
+#grid8 > div {
+  
+  font-size: 14px;
+  padding: 0.1em;
+  background: ;
+  text-align: left;
+  font-family: 'HelveticaBold';
+  color: #4d5255;
+
+}

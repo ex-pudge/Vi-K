@@ -1,0 +1,53 @@
+@font-face {
+    font-family: Fangtasia;
+    src:url(Fangtasia/Fangtasia.ttf.woff),
+        url(Fangtasia/Fangtasia.ttf.svg),
+        url(Fangtasia/Fangtasia.ttf.eot),
+        url(Fangtasia/Fangtasia.ttf.eot?#iefix); 
+        font-weight: normal;
+        font-style: normal;
+}
+
+
+
+h1 { 
+   font-family: 'Fangtasia';
+   font-size: 77pt;
+   font-weight:400;
+   color: #4d5255;
+   margin-block-start: 0.0em;
+   margin-block-end: 0.0em;
+    
+} 
+
+.down { 
+  text-indent: %;
+   font-family: 'Georgia';
+   font-size: 15pt;
+   margin-right: -47%;
+   font-weight:400;
+   color: #4d5255;
+} 
+
+
+.dot{
+  color: #f26c4f;
+}
+
+@font-face {
+      font-family: "HelveticaBold";
+      src: url("HelveticaBold/HelveticaBold.eot");
+      src: url("HelveticaBold/HelveticaBold.eot?#iefix")format("embedded-opentype"),
+      url("HelveticaBold/HelveticaBold.woff") format("woff"),
+      url("fonts/HelveticaBold/HelveticaBold.ttf") format("truetype");
+      font-style: normal;
+      font-weight: normal;
+  }
+
+  .down1 { 
+  text-indent: 1%;
+   font-family: 'Georgia';
+   font-size: 15pt;
+   font-weight:540;
+   color: #4d5255;
+} 

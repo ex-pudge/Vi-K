@@ -1,0 +1,26 @@
+#slider4{width:980px;height:400px;margin:0px auto;}
+
+#slider4>div
+{
+        float:left;
+        position:relative;
+        width:980px;
+        height:400px;
+        overflow:hidden;
+
+}
+
+#slider4>div>img
+{
+        position:absolute;
+        top:0px;
+        width:980px;
+        height:400px;
+}
+
+#slider4>div>div>img{
+	position: absolute;
+  left:-1%;
+  bottom: 0;
+  width: 100%;
+  }

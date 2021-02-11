@@ -20,7 +20,7 @@
 
 #slider4>div>div>img{
 	position: absolute;
-  left:-1%;
+  right: 3px;
   bottom: 0;
   width: 100%;
   }

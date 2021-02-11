@@ -18,7 +18,7 @@
 }
 
 .gridy1{
-  margin-right: 24px;
+  margin-right: 8%;
 }
 
 .gridy2{
@@ -28,6 +28,10 @@
 
 .gridy3{
   margin-left:9%;
+}
+
+.gridy4{
+  ;
 }
 
 #grid1 {
@@ -61,7 +65,7 @@
 .gridy21{
   margin-right: 9%; 
   font-size: 12px;
-  line-height:;
+  line-height:1.5;
 }
 
 .gridy22{
@@ -71,97 +75,109 @@
 }
 
 .gridy23{
-  list-style-type: none;
-  padding-inline-start: 30px;
-  font-family: 'Georgia';
-  font-size: 13px;
+  list-style-type: none; 
 }
-
-
 
 .gridy24{
   text-decoration: none;
   border-bottom: 1px dotted;
   color: #4d5255; 
-  font-style:italic;
   font-family: 'Georgia';
-}
-.gridy24>li{
-  font-style:italic;
-
-   font-family: 'Georgia';
+  font-size: 13px;
 }
 
 .gridy25{
   text-decoration: none; 
   border-bottom: 1px dotted; 
-  color: #4d5255;  
-  float: right;
+  color: #4d5255; 
+  font-family: 'Georgia';
+  font-size: 13px; 
+  margin-left: 39%;
 }
 
 .gridy26{
   text-decoration: none; 
   border-bottom: 1px dotted; 
   color: #4d5255; 
+  font-family: 'Georgia';
+  font-size: 13px;
 
 }
 
 .gridy27{
  text-decoration: none; 
  border-bottom: 1px dotted; 
- color: #4d5255;  
- float: right;
+ color: #4d5255; 
+ font-family: 'Georgia';
+ font-size: 13px; 
+ margin-left: 20%;
 }
 
 .gridy28{
   text-decoration: none; 
   border-bottom: 1px dotted; 
-  color: #4d5255;
+  color: #4d5255; 
+  font-family: 'Georgia';
+  font-size: 13px;
 }
 
 .gridy29{
   text-decoration: none;
   border-bottom: 1px dotted; 
-  color: #4d5255; 
-  float: right;
+  color: #4d5255;
+  font-family: 'Georgia';
+  font-size: 13px; 
+  margin-left: 37%;
 }
 
 .gridy210{
   text-decoration: none; 
   border-bottom: 1px dotted; 
   color: #4d5255; 
+  font-family: 'Georgia';
+  font-size: 13px;"
 }
 
 .gridy211{
   text-decoration: none; 
   border-bottom: 1px dotted; 
-  color: #4d5255;  
-  float: right;
+  color: #4d5255; 
+  font-family: 'Georgia';
+  font-size: 13px; 
+  margin-left: 25%;
 }
 
 .gridy212{
   text-decoration: none; 
   border-bottom: 1px dotted; 
   color: #4d5255; 
+  font-family: 'Georgia';
+  font-size: 13px;
 }
 
 .gridy213{
   text-decoration: none; 
   border-bottom: 1px dotted; 
-  color: #4d5255;  
-  float: right;
+  color: #4d5255; 
+  font-family: 'Georgia';
+  font-size: 13px; 
+  margin-left: 43%;
 }
 
 .gridy214{
   text-decoration: none; 
   border-bottom: 1px dotted; 
   color: #4d5255; 
+  font-family: 'Georgia';
+  font-size: 13px;"
 }
 
 .gridy215{
   text-decoration: none; 
   border-bottom: 1px dotted; 
   color: #4d5255; 
+  font-family: 'Georgia';
+  font-size: 13px; 
   margin-left: 19%;
 }
 
@@ -169,6 +185,8 @@
   text-decoration: none; 
   border-bottom: 1px dotted; 
   color: #4d5255; 
+  font-family: 'Georgia';
+  font-size: 13px;
   
 }
 
@@ -176,6 +194,8 @@
   text-decoration: none; 
   border-bottom: 1px dotted; 
   color: #4d5255; 
+  font-family: 'Georgia';
+  font-size: 13px; 
   margin-left: 29%;
 }
 
@@ -183,36 +203,48 @@
   text-decoration: none; 
   border-bottom: 1px dotted;
   color: #4d5255; 
+  font-family: 'Georgia';
+  font-size: 13px;"
 }
 
 .gridy219{
   text-decoration: none;
   border-bottom: 1px dotted;
   color: #4d5255; 
+  font-family: 'Georgia';
+  font-size: 13px;
 }
 
 .gridy218{
   text-decoration: none; 
   border-bottom: 1px dotted;
   color: #4d5255; 
+  font-family: 'Georgia';
+  font-size: 13px;"
 }
 
 .gridy218{
   text-decoration: none; 
   border-bottom: 1px dotted;
   color: #4d5255; 
+  font-family: 'Georgia';
+  font-size: 13px;"
 }
 
 .gridy218{
   text-decoration: none; 
   border-bottom: 1px dotted;
   color: #4d5255; 
+  font-family: 'Georgia';
+  font-size: 13px;"
 }
 
 .gridy218{
   text-decoration: none; 
   border-bottom: 1px dotted;
   color: #4d5255; 
+  font-family: 'Georgia';
+  font-size: 13px;"
 }
 
 #grid3 { 
@@ -247,7 +279,7 @@
   font-family: 'HelveticaBold'; 
   font-size: 12px; 
   color: #4d5255; 
-  margin-right:; 
+  margin-right: 10%; 
   font-weight:400; 
 }
 
@@ -280,11 +312,7 @@
 .gridy51{
   font-family: 'HelveticaBold';  
   color:  #acacac; 
-  margin-left: 40px;
-}
-.gridy511{
-  font-family: 'HelveticaBold';  
-  color:  #acacac; 
+  margin-left: 2%;
 }
 
 .gridy52{
@@ -294,12 +322,6 @@
 }
 
 .gridy53{
-  font-family: 'HelveticaBold'; 
-  color:  #acacac;
-  margin-left: 11%;
-}
-
-.gridy54{
   font-family: 'HelveticaBold'; 
   color:  #acacac;
   margin-left: 11%;
@@ -318,23 +340,16 @@
   font-weight:200; 
   font-family: 'HelveticaBold'; 
   font-size: 11px;
-  margin-left: 40px;
-
 }
 
-.gridy611{
-  font-weight:200; 
-  font-family: 'HelveticaBold'; 
-  font-size: 11px;
-
-}
 
 .gridy62{
   color:  #acacac; 
+  margin-left: 1%;
 }
 
 .gridy63{
-  margin-left:80px;
+  margin-left: 19%;
 }
 
 
@@ -377,11 +392,3 @@
   color: #4d5255;
 
 }
-
-#grid91 { 
-  display: grid;
-  grid-template-rows: 60px 60px;
-  grid-template-columns: 1fr 1fr 1fr;
-  padding .em;
-  
-  }

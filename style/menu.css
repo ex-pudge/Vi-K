@@ -16,6 +16,9 @@
 	font-size: 13px;
 }
 
+
+
+
 .underline{
 	border-bottom: 3px solid;
 	color: #f26c4f;
@@ -23,20 +26,4 @@
 
 .menu1{
 	margin: 0 10px;
-}
-
-.icons{
-	margin-left:449px;
-}
-
-.icons-color{
-	color: #f26c4f;"
-}
-
-.icons-font{
-	font-size: 18px;
-}
-
-.icon-search{
-margin-left: 210px;
 }

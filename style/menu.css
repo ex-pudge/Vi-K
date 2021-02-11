@@ -16,12 +16,6 @@
 	font-size: 13px;
 }
 
-
-.menuli{
-font-size: 13px;
-margin-right: 48%;
-}
-
 .underline{
 	border-bottom: 3px solid;
 	color: #f26c4f;
@@ -29,4 +23,20 @@ margin-right: 48%;
 
 .menu1{
 	margin: 0 10px;
+}
+
+.icons{
+	margin-left:449px;
+}
+
+.icons-color{
+	color: #f26c4f;"
+}
+
+.icons-font{
+	font-size: 18px;
+}
+
+.icon-search{
+margin-left: 210px;
 }

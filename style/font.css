@@ -21,10 +21,9 @@ h1 {
 } 
 
 .down { 
-  text-indent: %;
+  border:0 400 0 0px;
    font-family: 'Georgia';
    font-size: 15pt;
-   margin-right: -47%;
    font-weight:400;
    color: #4d5255;
 } 
@@ -44,10 +43,17 @@ h1 {
       font-weight: normal;
   }
 
-  .down1 { 
-  text-indent: 1%;
+  .down1 {
    font-family: 'Georgia';
    font-size: 15pt;
    font-weight:540;
    color: #4d5255;
 } 
+
+@font-face {
+      font-family: "Helvetica";
+      src: url("style/Helvetica/9202.eot");
+      font-style: normal;
+      font-weight: normal;
+  }
+

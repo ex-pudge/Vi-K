@@ -8,6 +8,14 @@
     padding:0 450px 0 450px;
 }
 
+.rss1 {color: white; position: absolute;  margin-left: 12px; margin-top: 8px;}
+
+.rss {color: #f26c4f;}
+
+.twitter {color: white;position: absolute; margin-left: 10px; margin-top: 10px;}
+
+.envelope {color: white;position: absolute; margin-left: 9px; margin-top: 9px;}
+
 .icocircle {
   display: inline;
   height: 30px; width: 30px;
